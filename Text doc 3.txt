@@ -1,1 +1,3 @@
+
 text of text doc 3
+Second line of doc 3
